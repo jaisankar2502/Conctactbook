@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Conctactbook</string>
+    <string name="contact_book">Contact Book</string>
+    <string name="name">Name</string>
+    <string name="add_to_contact">Add to contact</string>
+    <string name="email">Email</string>
+    <string name="number">Number</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="login1">Login</string>
+</resources>
